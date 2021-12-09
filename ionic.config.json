@@ -1,0 +1,8 @@
+{
+  "name": "GestionContact",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
